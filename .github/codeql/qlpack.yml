@@ -1,0 +1,4 @@
+name: Notoriousjayy/cicd-pipeline-documentation-codeql-pack
+version: 0.0.1
+library: true
+dependencies: {}
